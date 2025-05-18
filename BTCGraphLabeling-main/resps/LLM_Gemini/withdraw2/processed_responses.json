@@ -1,0 +1,34 @@
+{
+  "resps\\withdraw2\\0-100000\\1": {
+    "2": {
+      "processed_response": ".\"\"\"\nReasoning: The post mentions a withdrawal wallet address for the second time in the series \"BitCoin Talks 1.\"\nWithdraw addresses: \n- 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa\nEntity: Not specified\nType of entity: Not specified\n.\"\"\"",
+      "Entity": "Not specified",
+      "Type of entity": "Not specified",
+      "Withdraw addresses": "[]",
+      "withdrawals": []
+    },
+    "3": {
+      "processed_response": ".\"\"\"\nReasoning: The post mentions a withdrawal address for Bitcoin funds.\nEntity: Not specified\nType of entity: Not specified\nWithdraw addresses: \n- 3QJmV3qfvL9SuYo34YihAf3sRCW3qSinyC\n.\"\"\"",
+      "Entity": "Not specified",
+      "Type of entity": "Not specified",
+      "Withdraw addresses": "[]",
+      "withdrawals": []
+    },
+    "8": {
+      "processed_response": ".\"\"\"\n.Reasoning: The post mentions a withdrawal with the alias #2 to be made to the address 157fRrqAKrDyGHr1Bx3yDxeMv8Rh45aUet.\n.Entity: Bitcoin Talks\n.Type of entity: Unknown\n.Withdraw addresses: \n- $btc_tx_id_2: 157fRrqAKrDyGHr1Bx3yDxeMv8Rh45aUet\n.\"\"\"",
+      "Entity": "Bitcoin Talks",
+      "Type of entity": "Unknown",
+      "Withdraw addresses": "[]",
+      "withdrawals": []
+    }
+  },
+  "resps\\withdraw2\\0-100000\\2": {
+    "7": {
+      "processed_response": ".\"\"\"\nReasoning: The post mentions an old withdrawal address that the user is unsure is still valid, indicating the possibility of a previous use of a service.\nWithdraw addresses: \n- 1BitcoinEaterAddressDontSendf59kuE\n.\"\"\"\n",
+      "Entity": "None",
+      "Type of entity": "None",
+      "Withdraw addresses": "[]",
+      "withdrawals": []
+    }
+  }
+}

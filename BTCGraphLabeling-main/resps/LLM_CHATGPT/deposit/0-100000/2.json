@@ -1,0 +1,18 @@
+{
+    "1": {
+        "title": "BitCoin Talks 2",
+        "message": "Deposit your tokens here: 1JXFXUBGs2ZtEDAQMdZ3tkCKo38nT2XSEp.",
+        "message_addresses": [
+            "1JXFXUBGs2ZtEDAQMdZ3tkCKo38nT2XSEp"
+        ],
+        "message_tx_ids": [],
+        "raw": "Title: BitCoin Talks 2\n\nPost: Deposit your tokens here: 1JXFXUBGs2ZtEDAQMdZ3tkCKo38nT2XSEp.",
+        "raw_addresses": [
+            "1JXFXUBGs2ZtEDAQMdZ3tkCKo38nT2XSEp"
+        ],
+        "raw_tx_ids": [],
+        "processed": "Title: BitCoin Talks 2\n\nPost: Deposit your tokens here: $btc_address_0.",
+        "raw_response": "\"\"\"\n.Reasoning: The post explicitly mentions depositing tokens to a specific address.\n.Entity: BitCoin Talks\n.Type of entity: Forum or discussion platform\n.Deposit addresses: $btc_address_0\n.\"\"\"",
+        "processed_response": "\"\"\"\n.Reasoning: The post explicitly mentions depositing tokens to a specific address.\n.Entity: BitCoin Talks\n.Type of entity: Forum or discussion platform\n.Deposit addresses: 1JXFXUBGs2ZtEDAQMdZ3tkCKo38nT2XSEp\n.\"\"\""
+    }
+}

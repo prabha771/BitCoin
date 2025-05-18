@@ -1,0 +1,50 @@
+{
+    "2": {
+        "title": "BitCoin Talks 1",
+        "message": "Here's my second withdrawal wallet address: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa.",
+        "message_addresses": [
+            "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
+        ],
+        "message_tx_ids": [],
+        "raw": "Title: BitCoin Talks 1\n\nPost: Here's my second withdrawal wallet address: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa.",
+        "raw_addresses": [
+            "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
+        ],
+        "raw_tx_ids": [],
+        "processed": "Title: BitCoin Talks 1\n\nPost: Here's my second withdrawal wallet address: $btc_address_0.",
+        "raw_response": ".\"\"\"\nReasoning: The post mentions a withdrawal wallet address for the second time in the series \"BitCoin Talks 1.\"\nWithdraw addresses: \n- $btc_address_0\nEntity: Not specified\nType of entity: Not specified\n.\"\"\"",
+        "processed_response": ".\"\"\"\nReasoning: The post mentions a withdrawal wallet address for the second time in the series \"BitCoin Talks 1.\"\nWithdraw addresses: \n- 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa\nEntity: Not specified\nType of entity: Not specified\n.\"\"\""
+    },
+    "3": {
+        "title": "BitCoin Talks 1",
+        "message": "My main withdrawal address is 3QJmV3qfvL9SuYo34YihAf3sRCW3qSinyC.",
+        "message_addresses": [
+            "3QJmV3qfvL9SuYo34YihAf3sRCW3qSinyC"
+        ],
+        "message_tx_ids": [],
+        "raw": "Title: BitCoin Talks 1\n\nPost: My main withdrawal address is 3QJmV3qfvL9SuYo34YihAf3sRCW3qSinyC.",
+        "raw_addresses": [
+            "3QJmV3qfvL9SuYo34YihAf3sRCW3qSinyC"
+        ],
+        "raw_tx_ids": [],
+        "processed": "Title: BitCoin Talks 1\n\nPost: My main withdrawal address is $btc_address_0.",
+        "raw_response": ".\"\"\"\nReasoning: The post mentions a withdrawal address for Bitcoin funds.\nEntity: Not specified\nType of entity: Not specified\nWithdraw addresses: \n- $btc_address_0\n.\"\"\"",
+        "processed_response": ".\"\"\"\nReasoning: The post mentions a withdrawal address for Bitcoin funds.\nEntity: Not specified\nType of entity: Not specified\nWithdraw addresses: \n- 3QJmV3qfvL9SuYo34YihAf3sRCW3qSinyC\n.\"\"\""
+    },
+    "8": {
+        "title": "BitCoin Talks 1",
+        "message": "Use this for withdrawal #2: 157fRrqAKrDyGHr1Bx3yDxeMv8Rh45aUet.",
+        "message_addresses": [
+            "157fRrqAKrDyGHr1Bx3yDxeMv8Rh45aUet"
+        ],
+        "message_tx_ids": [],
+        "raw": "Title: BitCoin Talks 1\n\nPost: Use this for withdrawal #2: 157fRrqAKrDyGHr1Bx3yDxeMv8Rh45aUet.",
+        "raw_addresses": [
+            "157fRrqAKrDyGHr1Bx3yDxeMv8Rh45aUet"
+        ],
+        "raw_tx_ids": [],
+        "processed": "Title: BitCoin Talks 1\n\nPost: Use this for withdrawal #2: $btc_address_0.",
+        "raw_response": ".\"\"\"\n.Reasoning: The post mentions a withdrawal with the alias #2 to be made to the address $btc_address_0.\n.Entity: Bitcoin Talks\n.Type of entity: Unknown\n.Withdraw addresses: \n- $btc_tx_id_2: $btc_address_0\n.\"\"\"",
+        "processed_response": ".\"\"\"\n.Reasoning: The post mentions a withdrawal with the alias #2 to be made to the address 157fRrqAKrDyGHr1Bx3yDxeMv8Rh45aUet.\n.Entity: Bitcoin Talks\n.Type of entity: Unknown\n.Withdraw addresses: \n- $btc_tx_id_2: 157fRrqAKrDyGHr1Bx3yDxeMv8Rh45aUet\n.\"\"\""
+    }
+}

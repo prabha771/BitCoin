@@ -1,0 +1,3 @@
+address,entity,category,source
+1BetAddressXYZ,DirectBet,BET,BitcoinTalk
+1FairlayABC123,Fairlay,BET,BitcoinTalk

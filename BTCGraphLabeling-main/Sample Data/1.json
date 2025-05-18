@@ -1,0 +1,14 @@
+{
+  "thread_number": 1,
+  "title": "Deposit talks",
+  "thread_url": "https://bitcointalk.org/index.php?topic=2.0",
+  "num_messages": 2,
+  "0": {
+    "message": "I requested a deposit of 0.2 BTC but it's stuck!",
+	"date": "2024-01-23 10:00:00"
+  },
+  "1": {
+    "message": "The address I used was 3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy.",
+	"date": "2024-01-23 10:00:00"
+  }
+}

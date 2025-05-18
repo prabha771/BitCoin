@@ -1,0 +1,18 @@
+{
+    "0": {
+        "title": "BitCoin Talks 2",
+        "message": "Moved funds to cold wallet for extra safety: 1FeZXDcxSzdfCN1Svz8CSX5PbJDh2neaNT.",
+        "message_addresses": [
+            "1FeZXDcxSzdfCN1Svz8CSX5PbJDh2neaNT"
+        ],
+        "message_tx_ids": [],
+        "raw": "Title: BitCoin Talks 2\n\nPost: Moved funds to cold wallet for extra safety: 1FeZXDcxSzdfCN1Svz8CSX5PbJDh2neaNT.",
+        "raw_addresses": [
+            "1FeZXDcxSzdfCN1Svz8CSX5PbJDh2neaNT"
+        ],
+        "raw_tx_ids": [],
+        "processed": "Title: BitCoin Talks 2\n\nPost: Moved funds to cold wallet for extra safety: $btc_address_0.",
+        "raw_response": ".\"\"\"\n.Reasoning: The post mentions moving funds to a cold wallet for extra safety.\n.Addresses: ($btc_address_0, Cold Wallet)\n.\"\"\"",
+        "processed_response": ".\"\"\"\n.Reasoning: The post mentions moving funds to a cold wallet for extra safety.\n.Addresses: (1FeZXDcxSzdfCN1Svz8CSX5PbJDh2neaNT, Cold Wallet)\n.\"\"\""
+    }
+}

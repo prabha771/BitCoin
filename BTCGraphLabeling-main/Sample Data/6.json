@@ -1,0 +1,18 @@
+{
+  "thread_number": 6,
+  "title": "BitCoin Talks 6",
+  "thread_url": "https://bitcointalk.org/index.php?topic=3.0",
+  "num_messages": 2,
+ "0": {
+      "user_name": "safe_keeper",
+      "message": "Moved funds to cold wallet for extra safety: 1FeZXDcxSzdfCN1Svz8CSX5PbJDh2neaNT.",
+      "date": "2024-01-30 07:22:00",
+      "label": "hot_cold"
+    },
+    "1": {
+      "user_name": "token_sale2024",
+      "message": "Deposit your tokens here: 1JXFXUBGs2ZtEDAQMdZ3tkCKo38nT2XSEp.",
+      "date": "2024-02-01 12:00:00",
+      "label": "deposit"
+    }
+}

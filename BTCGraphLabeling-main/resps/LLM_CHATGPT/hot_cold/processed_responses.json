@@ -1,0 +1,22 @@
+{
+  "resps\\hot_cold\\0-100000\\1": {
+    "0": {
+      "processed_response": ".\"\"\"\n.Reasoning: The post mentions transferring all company funds to a cold wallet.\n.Addresses: (3FZbgi29cpjq2GjdwV8eyHuJJnkLtktZc5, company cold wallet)\n.\"\"\"",
+      "pair_address_entity": []
+    },
+    "4": {
+      "processed_response": "\"\"\"\n.Reasoning: The post mentions that all funds now reside in a new cold storage, indicating that 1FmvtS66LFh6ycrXDwKRQTexGJw4UWiqDX is a cold wallet.\n.Addresses: ('1FmvtS66LFh6ycrXDwKRQTexGJw4UWiqDX', 'BitCoin Talks')\n.\"\"\"",
+      "pair_address_entity": []
+    },
+    "7": {
+      "processed_response": ".\"\"\"\n.Reasoning: The post mentions the use of the address 1E8ydXZKFLG6zHdcZoRjRT4m4AYgYYjyAi for both hot and cold storage in the past.\n.Addresses: ('1E8ydXZKFLG6zHdcZoRjRT4m4AYgYYjyAi', 'BitCoin Talks')\n.\"\"\"",
+      "pair_address_entity": []
+    }
+  },
+  "resps\\hot_cold\\0-100000\\2": {
+    "0": {
+      "processed_response": ".\"\"\"\n.Reasoning: The post mentions moving funds to a cold wallet for extra safety.\n.Addresses: (1FeZXDcxSzdfCN1Svz8CSX5PbJDh2neaNT, Cold Wallet)\n.\"\"\"",
+      "pair_address_entity": []
+    }
+  }
+}

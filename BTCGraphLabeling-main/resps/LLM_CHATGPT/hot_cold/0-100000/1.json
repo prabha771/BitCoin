@@ -1,0 +1,50 @@
+{
+    "0": {
+        "title": "BitCoin Talks 1",
+        "message": "We transferred all company funds to a cold wallet: 3FZbgi29cpjq2GjdwV8eyHuJJnkLtktZc5.",
+        "message_addresses": [
+            "3FZbgi29cpjq2GjdwV8eyHuJJnkLtktZc5"
+        ],
+        "message_tx_ids": [],
+        "raw": "Title: BitCoin Talks 1\n\nPost: We transferred all company funds to a cold wallet: 3FZbgi29cpjq2GjdwV8eyHuJJnkLtktZc5.",
+        "raw_addresses": [
+            "3FZbgi29cpjq2GjdwV8eyHuJJnkLtktZc5"
+        ],
+        "raw_tx_ids": [],
+        "processed": "Title: BitCoin Talks 1\n\nPost: We transferred all company funds to a cold wallet: $btc_address_0.",
+        "raw_response": ".\"\"\"\n.Reasoning: The post mentions transferring all company funds to a cold wallet.\n.Addresses: ($btc_address_0, company cold wallet)\n.\"\"\"",
+        "processed_response": ".\"\"\"\n.Reasoning: The post mentions transferring all company funds to a cold wallet.\n.Addresses: (3FZbgi29cpjq2GjdwV8eyHuJJnkLtktZc5, company cold wallet)\n.\"\"\""
+    },
+    "4": {
+        "title": "BitCoin Talks 1",
+        "message": "All funds now reside in our new cold storage: 1FmvtS66LFh6ycrXDwKRQTexGJw4UWiqDX.",
+        "message_addresses": [
+            "1FmvtS66LFh6ycrXDwKRQTexGJw4UWiqDX"
+        ],
+        "message_tx_ids": [],
+        "raw": "Title: BitCoin Talks 1\n\nPost: All funds now reside in our new cold storage: 1FmvtS66LFh6ycrXDwKRQTexGJw4UWiqDX.",
+        "raw_addresses": [
+            "1FmvtS66LFh6ycrXDwKRQTexGJw4UWiqDX"
+        ],
+        "raw_tx_ids": [],
+        "processed": "Title: BitCoin Talks 1\n\nPost: All funds now reside in our new cold storage: $btc_address_0.",
+        "raw_response": "\"\"\"\n.Reasoning: The post mentions that all funds now reside in a new cold storage, indicating that $btc_address_0 is a cold wallet.\n.Addresses: ('$btc_address_0', 'BitCoin Talks')\n.\"\"\"",
+        "processed_response": "\"\"\"\n.Reasoning: The post mentions that all funds now reside in a new cold storage, indicating that 1FmvtS66LFh6ycrXDwKRQTexGJw4UWiqDX is a cold wallet.\n.Addresses: ('1FmvtS66LFh6ycrXDwKRQTexGJw4UWiqDX', 'BitCoin Talks')\n.\"\"\""
+    },
+    "7": {
+        "title": "BitCoin Talks 1",
+        "message": "Used this for both hot and cold in the past: 1E8ydXZKFLG6zHdcZoRjRT4m4AYgYYjyAi.",
+        "message_addresses": [
+            "1E8ydXZKFLG6zHdcZoRjRT4m4AYgYYjyAi"
+        ],
+        "message_tx_ids": [],
+        "raw": "Title: BitCoin Talks 1\n\nPost: Used this for both hot and cold in the past: 1E8ydXZKFLG6zHdcZoRjRT4m4AYgYYjyAi.",
+        "raw_addresses": [
+            "1E8ydXZKFLG6zHdcZoRjRT4m4AYgYYjyAi"
+        ],
+        "raw_tx_ids": [],
+        "processed": "Title: BitCoin Talks 1\n\nPost: Used this for both hot and cold in the past: $btc_address_0.",
+        "raw_response": ".\"\"\"\n.Reasoning: The post mentions the use of the address $btc_address_0 for both hot and cold storage in the past.\n.Addresses: ('$btc_address_0', 'BitCoin Talks')\n.\"\"\"",
+        "processed_response": ".\"\"\"\n.Reasoning: The post mentions the use of the address 1E8ydXZKFLG6zHdcZoRjRT4m4AYgYYjyAi for both hot and cold storage in the past.\n.Addresses: ('1E8ydXZKFLG6zHdcZoRjRT4m4AYgYYjyAi', 'BitCoin Talks')\n.\"\"\""
+    }
+}

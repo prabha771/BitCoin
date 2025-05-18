@@ -1,0 +1,50 @@
+{
+    "0": {
+        "title": "BitCoin Talks 1",
+        "message": "We transferred all company funds to a cold wallet: 3FZbgi29cpjq2GjdwV8eyHuJJnkLtktZc5.",
+        "message_addresses": [
+            "3FZbgi29cpjq2GjdwV8eyHuJJnkLtktZc5"
+        ],
+        "message_tx_ids": [],
+        "raw": "Title: BitCoin Talks 1\n\nPost: We transferred all company funds to a cold wallet: 3FZbgi29cpjq2GjdwV8eyHuJJnkLtktZc5.",
+        "raw_addresses": [
+            "3FZbgi29cpjq2GjdwV8eyHuJJnkLtktZc5"
+        ],
+        "raw_tx_ids": [],
+        "processed": "Title: BitCoin Talks 1\n\nPost: We transferred all company funds to a cold wallet: $btc_address_0.",
+        "raw_response": "\"\"\"\n.Reasoning: The post mentions transferring company funds to a cold wallet, which is a typical behavior for exchanges to store clients' funds securely.\n.Entity: BitCoin Talks\n.Type of entity: Exchange\n.Deposit addresses: $btc_address_0\n.\"\"\"",
+        "processed_response": "\"\"\"\n.Reasoning: The post mentions transferring company funds to a cold wallet, which is a typical behavior for exchanges to store clients' funds securely.\n.Entity: BitCoin Talks\n.Type of entity: Exchange\n.Deposit addresses: 3FZbgi29cpjq2GjdwV8eyHuJJnkLtktZc5\n.\"\"\""
+    },
+    "1": {
+        "title": "BitCoin Talks 1",
+        "message": "Send your payment to this address: 3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy. It's our deposit wallet.",
+        "message_addresses": [
+            "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy"
+        ],
+        "message_tx_ids": [],
+        "raw": "Title: BitCoin Talks 1\n\nPost: Send your payment to this address: 3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy. It's our deposit wallet.",
+        "raw_addresses": [
+            "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy"
+        ],
+        "raw_tx_ids": [],
+        "processed": "Title: BitCoin Talks 1\n\nPost: Send your payment to this address: $btc_address_0. It's our deposit wallet.",
+        "raw_response": ".\"\"\"\nReasoning: The post explicitly mentions the address $btc_address_0 as the deposit wallet.\nEntity: BitCoin Talks\nType of entity: Forum or community\nDeposit addresses: $btc_address_0\n\"\"\"",
+        "processed_response": ".\"\"\"\nReasoning: The post explicitly mentions the address 3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy as the deposit wallet.\nEntity: BitCoin Talks\nType of entity: Forum or community\nDeposit addresses: 3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy\n\"\"\""
+    },
+    "5": {
+        "title": "BitCoin Talks 1",
+        "message": "Please deposit to our sale address: 1FmvtS66LFh6ycrXDwKRQTexGJw4UWiqDX.",
+        "message_addresses": [
+            "1FmvtS66LFh6ycrXDwKRQTexGJw4UWiqDX"
+        ],
+        "message_tx_ids": [],
+        "raw": "Title: BitCoin Talks 1\n\nPost: Please deposit to our sale address: 1FmvtS66LFh6ycrXDwKRQTexGJw4UWiqDX.",
+        "raw_addresses": [
+            "1FmvtS66LFh6ycrXDwKRQTexGJw4UWiqDX"
+        ],
+        "raw_tx_ids": [],
+        "processed": "Title: BitCoin Talks 1\n\nPost: Please deposit to our sale address: $btc_address_0.",
+        "raw_response": "\"\"\"\n.Reasoning: The post instructs users to deposit funds to a specific address, indicating that it is a deposit address.\n.Deposit addresses: $btc_address_0\n.\"\"\"",
+        "processed_response": "\"\"\"\n.Reasoning: The post instructs users to deposit funds to a specific address, indicating that it is a deposit address.\n.Deposit addresses: 1FmvtS66LFh6ycrXDwKRQTexGJw4UWiqDX\n.\"\"\""
+    }
+}

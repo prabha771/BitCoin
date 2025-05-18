@@ -1,0 +1,18 @@
+{
+    "7": {
+        "title": "BitCoin Talks 2",
+        "message": "Old withdrawal address, not sure if still valid: 1BitcoinEaterAddressDontSendf59kuE.",
+        "message_addresses": [
+            "1BitcoinEaterAddressDontSendf59kuE"
+        ],
+        "message_tx_ids": [],
+        "raw": "Title: BitCoin Talks 2\n\nPost: Old withdrawal address, not sure if still valid: 1BitcoinEaterAddressDontSendf59kuE.",
+        "raw_addresses": [
+            "1BitcoinEaterAddressDontSendf59kuE"
+        ],
+        "raw_tx_ids": [],
+        "processed": "Title: BitCoin Talks 2\n\nPost: Old withdrawal address, not sure if still valid: $btc_address_0.",
+        "raw_response": ".\"\"\"\nReasoning: The post mentions an old withdrawal address, indicating that the user is uncertain if it is still valid. This implies that the user previously used this address to withdraw funds from a Bitcoin-related service.\n.\"\"\"\n.Entity: Bitcoin Talks\n.Type of entity: Unknown\n.Withdraw addresses: \n- $btc_address_0\n\"\"\"",
+        "processed_response": ".\"\"\"\nReasoning: The post mentions an old withdrawal address, indicating that the user is uncertain if it is still valid. This implies that the user previously used this address to withdraw funds from a Bitcoin-related service.\n.\"\"\"\n.Entity: Bitcoin Talks\n.Type of entity: Unknown\n.Withdraw addresses: \n- 1BitcoinEaterAddressDontSendf59kuE\n\"\"\""
+    }
+}

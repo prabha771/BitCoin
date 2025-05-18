@@ -1,0 +1,18 @@
+{
+  "thread_number": 10,
+  "title": "BitCoin Talks 10",
+  "thread_url": "https://bitcointalk.org/index.php?topic=3.0",
+  "num_messages": 2,
+  "0": {
+      "user_name": "offline_storer",
+      "message": "For cold storage, we use this: 3J98t1WpEZ33CNmQviecrnyiWrnqRhWNLy.",
+      "date": "2024-02-08 17:00:00",
+      "label": "hot_cold"
+    },
+    "1": {
+      "user_name": "promo_bot",
+      "message": "You can deposit at: 4J98t1WpEZ44CNmQviecrnyiWrnqRhWNLy.",
+      "date": "2024-02-09 19:19:00",
+      "label": "deposit"
+    }
+}

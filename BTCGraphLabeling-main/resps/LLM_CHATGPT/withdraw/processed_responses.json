@@ -1,0 +1,14 @@
+{
+  "resps\\withdraw\\0-100000\\1": {
+    "2": {
+      "processed_response": ".\"\"\"\n.Reasoning: The post mentions a withdrawal wallet address, indicating that the user is withdrawing funds to their self-custodial wallet.\n.Entity: Self-custodial wallet\n.Type of entity: N/A\n.Withdraw transactions: N/A\n.\"\"\""
+    },
+    "3": {
+      "processed_response": ".\"\"\"\nReasoning: The post mentions a withdrawal address for Bitcoin.\nEntity: Not specified\nType of entity: Not specified\nWithdraw transactions: Not specified\n.\"\"\""
+    },
+    "8": {
+      "processed_response": ".\"\"\"\nReasoning: The post mentions a withdrawal instruction using a Bitcoin address.\n.Entity: BitCoin Talks\n.Type of entity: Forum or discussion platform\n.Withdraw transactions: None\n.\"\"\""
+    }
+  },
+  "resps\\withdraw\\0-100000\\2": {}
+}

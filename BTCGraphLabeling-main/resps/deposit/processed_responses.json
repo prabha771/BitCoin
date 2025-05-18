@@ -1,0 +1,41 @@
+{
+  "resps\\deposit\\0-100000\\1": {
+    "0": {
+      "processed_response": "\"\"\"\n.Reasoning: The post mentions transferring company funds to a cold wallet, which is a typical behavior for exchanges to store clients' funds securely.\n.Entity: BitCoin Talks\n.Type of entity: Exchange\n.Deposit addresses: 3FZbgi29cpjq2GjdwV8eyHuJJnkLtktZc5\n.\"\"\"",
+      "Entity": "BitCoin Talks",
+      "Deposit addresses": "['3FZbgi29cpjq2GjdwV8eyHuJJnkLtktZc5']",
+      "deposit_addresses": [
+        "3FZbgi29cpjq2GjdwV8eyHuJJnkLtktZc5"
+      ],
+      "mentioned_valid_entities": []
+    },
+    "1": {
+      "processed_response": ".\"\"\"\nReasoning: The post explicitly mentions the address 3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy as the deposit wallet.\nEntity: BitCoin Talks\nType of entity: Forum or community\nDeposit addresses: 3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy\n\"\"\"",
+      "Entity": "BitCoin Talks",
+      "Deposit addresses": "['3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy']",
+      "deposit_addresses": [
+        "3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy"
+      ],
+      "mentioned_valid_entities": []
+    },
+    "5": {
+      "processed_response": "\"\"\"\n.Reasoning: The post instructs users to deposit funds to a specific address, indicating that it is a deposit address.\n.Deposit addresses: 1FmvtS66LFh6ycrXDwKRQTexGJw4UWiqDX\n.\"\"\"",
+      "Entity": "None",
+      "Deposit addresses": "['1FmvtS66LFh6ycrXDwKRQTexGJw4UWiqDX']",
+      "deposit_addresses": [
+        "1FmvtS66LFh6ycrXDwKRQTexGJw4UWiqDX"
+      ]
+    }
+  },
+  "resps\\deposit\\0-100000\\2": {
+    "1": {
+      "processed_response": "\"\"\"\n.Reasoning: The post explicitly mentions depositing tokens to a specific address.\n.Entity: BitCoin Talks\n.Type of entity: Forum/community\n.Deposit addresses: 1JXFXUBGs2ZtEDAQMdZ3tkCKo38nT2XSEp\n.\"\"\"",
+      "Entity": "BitCoin Talks",
+      "Deposit addresses": "['1JXFXUBGs2ZtEDAQMdZ3tkCKo38nT2XSEp']",
+      "deposit_addresses": [
+        "1JXFXUBGs2ZtEDAQMdZ3tkCKo38nT2XSEp"
+      ],
+      "mentioned_valid_entities": []
+    }
+  }
+}
